@@ -2288,11 +2288,7 @@
                         "name": "David Gropman",
                         "imdb_id": "nm0343222",
                         "note": "(production designer)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDM0YzY2N2ItNzJmZC00YmFlLTg1M2ItYzE2NzkxY2MxMDQ3XkEyXkFqcGdeQXVyMTM3NzY1OTU@._V1_.jpg",
-                            "height": 436,
-                            "width": 671
-                        }
+                        "image": null
                     },
                     {
                         "name": "Anna Pinnock",

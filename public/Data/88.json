@@ -1566,7 +1566,11 @@
                         "name": "S. Leigh Savidge",
                         "imdb_id": "nm0767655",
                         "note": "(story)",
-                        "image": null
+                        "image": {
+                            "url": "https://m.media-amazon.com/images/M/MV5BNmJjMDkzYWYtYTI4ZS00OGQyLThkMGYtNzAyYTQ2OGE2YjQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+                            "height": 178,
+                            "width": 178
+                        }
                     },
                     {
                         "name": "Alan Wenkus",

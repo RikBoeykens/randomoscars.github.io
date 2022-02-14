@@ -2662,11 +2662,7 @@
                         "name": "Pamela Goldammer",
                         "imdb_id": "nm1744062",
                         "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BODM2ZjZiMTktOTcxOC00OWE4LWEwM2EtMDRjM2U2ODkwNzg2XkEyXkFqcGdeQXVyMzU5MzczOTI@._V1_.jpg",
-                            "height": 600,
-                            "width": 427
-                        }
+                        "image": null
                     }
                 ],
                 "notes": null
@@ -4068,9 +4064,9 @@
                         "imdb_id": "nm0371010",
                         "note": null,
                         "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2UzMDg0ZTktMDVlNS00MWJlLTllMjktZmNlNmVhNzQ3NWNhXkEyXkFqcGdeQXVyNTYyODUzMTc@._V1_.jpg",
-                            "height": 2388,
-                            "width": 1706
+                            "url": "https://m.media-amazon.com/images/M/MV5BYTQzZmI3OTktOWRiNy00OTZiLWE0YjItY2ZlZmMzOTU1YzRiXkEyXkFqcGdeQXVyNTYyODUzMTc@._V1_.jpg",
+                            "height": 1780,
+                            "width": 2376
                         }
                     },
                     {
